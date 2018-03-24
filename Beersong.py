@@ -1,4 +1,4 @@
-#99 beer song using For loop
+# beer song using For loop
 
 for qty in range(99,0,-1):
     if(qty>1):
